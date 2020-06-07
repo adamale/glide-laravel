@@ -1,7 +1,7 @@
 {
-    "name": "league/glide-laravel",
+    "name": "adamale/glide-laravel",
     "description": "Glide adapter for Laravel",
-    "homepage": "http://glide.thephpleague.com",
+    "homepage": "https://github.com/adamale/glide-laravel",
     "license": "MIT",
     "authors" : [
         {
@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "league/glide-symfony": "^1.0"
+        "adamale/glide-symfony": "^1.0"
     },
     "require-dev": {
         "mockery/mockery": "^0.9",
